@@ -1,6 +1,7 @@
 # MY-SKILLS
 
 个人日常使用的科研与工程场景 Agent Skills 集合。每个 skill 独立成目录，遵循 Claude Skills 规范：`SKILL.md` 承载触发条件与核心流程，`references/` 承载细则、模板与示例，按需加载。
+本仓库为长期自用规范的整理归档，最初按此流程使用的场景包括个人项目与课程作业。
 
 ## Skill 列表
 
